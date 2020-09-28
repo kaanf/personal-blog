@@ -29,6 +29,8 @@ url: "https://kaanf.github.io" # the base hostname & protocol for your site, e.g
 twitter_username: w3irdf1shes
 github_username:  kaanf
 
+author: Kaan Fırat
+
 # Build settings
 # Removed minima theme.
 # theme: minima
