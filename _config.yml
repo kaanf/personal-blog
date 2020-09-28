@@ -30,7 +30,8 @@ twitter_username: w3irdf1shes
 github_username:  kaanf
 
 # Build settings
-theme: minima
+# Removed minima theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
