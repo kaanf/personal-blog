@@ -1,6 +1,6 @@
-[kaanf.com](https://kaanf.com) 
+## [Live Demo](https://kaanf.com) 
 
-## Getting Started
+## 🦄 Getting Started
 
 My first personal GitHub Pages built on **Jekyll & Ruby** with the Minima theme and inspired by **Krause**. Thanks for the contribution.
 
@@ -8,7 +8,7 @@ My first personal GitHub Pages built on **Jekyll & Ruby** with the Minima theme 
 
 For security reasons, Github does not allow plugins (under _plugins/) when deploying with Github Pages. This means: that you need to generate your site locally and push the resulting HTML `/jekyll` to a Github repository.
 
-### Ruby & Jekyll Installation
+### 🛠️ Ruby & Jekyll Installation
 
 - First, you need the Ruby package. Download Ruby Devkit 2.7.1. from the [download page.](https://rubyinstaller.org/downloads/) 
 
@@ -18,7 +18,7 @@ For security reasons, Github does not allow plugins (under _plugins/) when deplo
 
 - Check if Jekyll installed. `jekyll -v`
 
-### Repository Usage
+### 📦 Repository Usage
 
 - git clone `https://github.com/kaanf/personal-blog`
 
@@ -32,7 +32,7 @@ For security reasons, Github does not allow plugins (under _plugins/) when deplo
 
 - Open port and enjoy.
 
-### Deploy
+### ⚙️ Deploy
 
 - In VS Code, press `Ctrl+P` and `>Git Sync`
 
