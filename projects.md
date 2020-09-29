@@ -8,15 +8,72 @@ type: page
 published: true
 meta: {}
 ---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Projects
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+All the major projects I’ve worked on in the last 6 months. Unless otherwise noted, I’m the sole-founder of each of the projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{% for project in site.data.projects %}
+  <div class="fx-project">
+    <div class="title">
+      <h3><a href="{{ project.url }}" target="_blank">{{ project.title }}</a></h3>
+    </div>
+    <div class="subtitle">
+      {{ project.subtitle }}
+    </div>
+    <div class="metadata">
+      {{ project.metadata }}
+    </div>
+  </div>
+{% endfor %}
 
+<br />
 
-[jekyll-organization]: https://github.com/jekyll
+For more details check out my [about page](/about).
+
+<style type="text/css">
+  .fx-project {
+    border: 1px solid #d1d5da;
+    margin-bottom: 16px;
+    margin-right: 10px;
+    padding: 20px;
+    width: calc(50% - 40px - 20px);
+    height: 130px;
+    display: inline-block;
+    border-radius: 3px;
+    vertical-align: top;
+    position: relative;
+  }
+
+  @media screen and (max-width: 800px) {
+    .fx-project {
+      width: calc(100% - 40px);
+    }
+  }
+
+  .fx-project > .title {
+
+  }
+  .fx-project > .title > h3 > a {
+    text-decoration: none;
+  }
+  .fx-project > .subtitle {
+    color: #586069;
+    font-size: 14px;
+  }
+  .fx-project > .metadata {
+    font-size: 14px;
+    color: #777;
+    border: 1px solid #d1d5da;
+    border-right: 0;
+    border-bottom: 0;
+    max-width: 80%;
+    
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 3px 0 0 0;
+  }
+</style>

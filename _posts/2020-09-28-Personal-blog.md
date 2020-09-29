@@ -1,4 +1,14 @@
-[kaanf.com](https://kaanf.com) 
+---
+layout: post
+title: "Practice Jekyll & Ruby"
+categories: Blog
+tags:
+- blog
+status: publish
+type: post
+published: true
+meta: {}
+---
 
 ## Getting Started
 
@@ -37,3 +47,6 @@ For security reasons, Github does not allow plugins (under _plugins/) when deplo
 - In VS Code, press `Ctrl+P` and `>Git Sync`
 
 **If you have any questions, you can contact them via e-mail.**
+
+
+
