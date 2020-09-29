@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practice Jekyll & Ruby"
+title: "Personal Blog Repository Guide"
 categories: Blog
 tags:
 - blog
