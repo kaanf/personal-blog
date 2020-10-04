@@ -14,7 +14,7 @@ meta: {}
 
 ### ⭐ Başlamadan Önce
 
-Bu makale `3 Ekim 2020` tarihinde paylaştığım [Etkili bir UI/UX nasıl olmalı?](http://127.0.0.1:4000/blog/Etkili-UIUX-nasil-olmali) yazısının devamıdır. Yazının büyük bir bölümü **Smashing Magazine** & **Behance** sitelerinden referans içermektedir. En sonda yer alan referanslar bölümünden inceleyebilirsiniz.
+Bu makale `3 Ekim 2020` tarihinde paylaştığım [Etkili bir UI/UX nasıl olmalı?](https://kaanf.com/blog/Etkili-UIUX-nasil-olmali) yazısının devamıdır. Yazının büyük bir bölümü **Smashing Magazine** & **Behance** sitelerinden referans içermektedir. En sonda yer alan referanslar bölümünden inceleyebilirsiniz.
 
 ### 📍 Tahmin Edilebilir Etkileşimli Ögelerin Tasarlanması
 
