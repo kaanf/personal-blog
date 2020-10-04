@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mobil Uygulama Tasarımına Giriş"
+title: "Etkili bir UI/UX nasıl olmalı?"
 categories: Blog
 tags:
 - user interface
@@ -12,7 +12,7 @@ published: true
 meta: {}
 ---
 
-## 🦄 Bölüm 1: Etkili bir UI/UX nasıl olmalı?
+### 🦄 Mobil Uygulama Tasarımına Giriş
 
 Blogtaki yazıları kendimi geliştirmek açısından da ingilizce yazmayı düşünüyordum ancak bu konuda çok fazla türkçe kaynak olmadığı için türkçe devam edeceğim. Yazının büyük bir bölümü **Smashing Magazine** & **Behance** sitelerinden referans içermektedir. En sonda yer alan referanslar bölümünden inceleyebilirsiniz.
 
