@@ -40,18 +40,18 @@ Ancak genele bakarsam, yukarıda da bahsettiğim gibi, bazı şarkıların sözl
 
 **Full Circle**'ın track listesi şu şekilde;
 
-- Overcome
-- Bread of Shame
-- A Thousand Faces
-- Suddenly
-- Rain
-- Away in Silence
-- Fear
-- On My Sleeve
-- Full Circle
-- Time
-- Good Fight
-- The Song You Sing
+- [Overcome](https://www.youtube.com/watch?v=lXIhBmBgoJI&list=PL976F4FB198BAAE98&index=1) 
+- [Bread of Shame](https://www.youtube.com/watch?v=P2jeBMPIJZg&list=PL976F4FB198BAAE98&index=2) 
+- [A Thousand Faces](https://www.youtube.com/watch?v=ZYlXD5nS35U) 
+- [Suddenly](https://www.youtube.com/watch?v=Za_17uEHeO4&list=PL976F4FB198BAAE98&index=4) 
+- [Rain](https://www.youtube.com/watch?v=P8qaTgj2ENI&list=PL976F4FB198BAAE98&index=5) 
+- [Away in Silence](https://www.youtube.com/watch?v=FRN5vPR75ms&list=PL976F4FB198BAAE98&index=6) 
+- [Fear](https://www.youtube.com/watch?v=birhH9F0AZQ&list=PL976F4FB198BAAE98&index=7) 
+- [On My Sleeve](https://www.youtube.com/watch?v=HZS3YNnlQ2M) 
+- [Full Circle](https://www.youtube.com/watch?v=bxBDBrCJgIU&list=PL976F4FB198BAAE98&index=9) 
+- [Time](https://www.youtube.com/watch?v=LRkYiRnRzY0) 
+- [Good Fight](https://www.youtube.com/watch?v=OCZWuipDz9c&list=PL976F4FB198BAAE98&index=11) 
+- [The Song You Sing](https://www.youtube.com/watch?v=KVef5qTG6ZU&list=PL976F4FB198BAAE98&index=12) 
 
 Söz olarak ise bir iki paragraf bırakıyorum.
 <hr>
