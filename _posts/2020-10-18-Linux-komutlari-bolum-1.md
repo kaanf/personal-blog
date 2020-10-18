@@ -33,9 +33,7 @@ File permissions also can be displayed in shell by running `ls -l` command.
 In this line, first bit (_?_) identifies the file type. For example, link files can showed by **l**, directories **d**, etc. 
 
 - First three bits after the question mark, defines the permission for user. (**rwx**)
-
 - Second three bits after first one, defines the permission for group. (**rwx**)
-
 - Last three bits, defines the permission for everyone. (**rwx**)
 
 For example, let's create a directory called **movies** and list files & directories.
@@ -55,7 +53,7 @@ As you can see, group users are not allowed to write in our movie folder. Let's 
 
 <img src="/images/linux-commands-image-two.png" align="center">
 
-If we want to add permissions, first add the letter of the usergroup **u, g, o** and then the letter of the permission **r, w, x** we want to add and specify the directory or file. 
+If we want to add permissions, first add the letter of the usergroup (**u, g, o**) and then the letter of the permission (**r, w, x**) we want to add and specify the directory or file. 
 
 In this example, I use `chmod g+w movies/` for add write permissions for group users.
 
