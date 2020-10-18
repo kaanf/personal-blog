@@ -39,6 +39,7 @@ In this line, first bit (_?_) identifies the file type. For example, link files 
 - Last three bits, defines the permission for everyone. (**rwx**)
 
 For example, let's create a directory called **movies** and list files & directories.
+
 `mkdir movies` 
 `ls -ltr` 
 
