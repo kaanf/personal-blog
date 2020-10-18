@@ -44,9 +44,6 @@ For example, let's create a directory called **movies** and list files & directo
 
 <img src="/images/linux-commands-image-one.png" align="center">
 
-<br>
-<br>
-
 As seen above, in the left part of our movies folder there is the text **drwxr-xr-x**. _d_ letter shows us it is a directory, first **rwx** permissions of myself, second **r-x** group's permissions and last one is permissions for everyone in the system. 
 
 Command to change permission: **`chmod`**
@@ -56,9 +53,6 @@ With **`chmod`** command, we can change permissions for users, groups and system
 As you can see, group users are not allowed to write in our movie folder. Let's change this with the **`chmod`** command.
 
 <img src="/images/linux-commands-image-two.png" align="center">
-
-<br>
-<br>
 
 If we want to add permissions, first add the letter of the usergroup **u, g, o** and then the letter of the permission **r, w, x** we want to add and specify the directory or file. 
 
