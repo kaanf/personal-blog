@@ -56,4 +56,3 @@ As you can see, group users are not allowed to write in our movie folder. Let's 
 If we want to add permissions, first add the letter of the usergroup (**u, g, o**) and then the letter of the permission (**r, w, x**) we want to add and specify the directory or file. 
 
 In this example, I use `chmod g+w movies/` for add write permissions for group users.
-
