@@ -3,7 +3,7 @@ layout: post
 title: "Haftalık Albüm İncelemesi #1"
 categories: Blog
 tags:
-- linux
+- music
 status: publish
 type: post
 published: true
