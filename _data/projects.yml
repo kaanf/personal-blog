@@ -3,6 +3,11 @@
   subtitle: "🎵 LyricsFinder is a simple app that find the lyrics of your favorite songs."
   metadata: "Open Source - Founder"
 
+- title: "LyricsFinder CLI"
+  url: "https://github.com/kaanf/lyrics-finder-cli"
+  subtitle: "📀 Python CLI script that lets you find song lyrics with using MusixMatch API. "
+  metadata: "Open Source - Founder"
+
 - title: "MovieInf"
   url: "https://github.com/kaanf/movie-inf"
   subtitle: "🎥 MI is an application that you can learn the information of the movies and series. Made for the JSON parsing exercise."
@@ -17,11 +22,6 @@
   url: "https://github.com/kaanf/friendpie-app"
   subtitle: "🧑‍🤝‍🧑 Friendpie is a social networking platform that matches people with common interests and hobbies. This project has been stopped and will continue again soon."
   metadata: "Open Source - Founder"  
-
-- title: "LyricsFinder CLI"
-  url: "https://github.com/kaanf/lyrics-finder-cli"
-  subtitle: "📀 Python CLI script that lets you find song lyrics with using MusixMatch API. "
-  metadata: "Open Source - Founder"
 
 - title: "Friendpie.me / Landing Page #1"
   url: "https://friendpie.me"
